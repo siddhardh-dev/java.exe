@@ -1,3 +1,6 @@
 git is a version control system  that helps developers track changes
 when multiple developers edit the same file, Git might show a conflict. You need to manually resolve it and commit again.
 programs compiled to java bytecode can run on any system equipped with a java virtual machine(JVM)
+
+Java applocations can run on any device that has the appropriate java runtime environment.
+The managed runtime environment(JVM) helps protect against issues like memory corruption.
