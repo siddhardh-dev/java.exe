@@ -4,3 +4,8 @@ programs compiled to java bytecode can run on any system equipped with a java vi
 
 Java applocations can run on any device that has the appropriate java runtime environment.
 The managed runtime environment(JVM) helps protect against issues like memory corruption.
+
+Git records the history of changes, allowing you to revert to previous states.
+before changes are permanently recorded, they are collected in a staging area.
+before changes are permanently recorded, they are collected in a staging  area,
+Git records the history of changes, allowing you to revert to previous states.
